@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/PrashidPalDictionary/static/css/main.11f26c9f.css",
-    "main.js": "/PrashidPalDictionary/static/js/main.83dfbaaf.js",
-    "index.html": "/PrashidPalDictionary/index.html",
-    "main.11f26c9f.css.map": "/PrashidPalDictionary/static/css/main.11f26c9f.css.map",
-    "main.83dfbaaf.js.map": "/PrashidPalDictionary/static/js/main.83dfbaaf.js.map"
+    "main.css": "/PrashidPal_f4Dictionary/static/css/main.11f26c9f.css",
+    "main.js": "/PrashidPal_f4Dictionary/static/js/main.83dfbaaf.js",
+    "index.html": "/PrashidPal_f4Dictionary/index.html",
+    "main.11f26c9f.css.map": "/PrashidPal_f4Dictionary/static/css/main.11f26c9f.css.map",
+    "main.83dfbaaf.js.map": "/PrashidPal_f4Dictionary/static/js/main.83dfbaaf.js.map"
   },
   "entrypoints": [
     "static/css/main.11f26c9f.css",
