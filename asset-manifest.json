@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PrashidPalDictionary/static/css/main.11f26c9f.css",
+    "main.js": "/PrashidPalDictionary/static/js/main.83dfbaaf.js",
+    "index.html": "/PrashidPalDictionary/index.html",
+    "main.11f26c9f.css.map": "/PrashidPalDictionary/static/css/main.11f26c9f.css.map",
+    "main.83dfbaaf.js.map": "/PrashidPalDictionary/static/js/main.83dfbaaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11f26c9f.css",
+    "static/js/main.83dfbaaf.js"
+  ]
+}
